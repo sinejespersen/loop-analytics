@@ -83,7 +83,9 @@
   * letting the administrator choose the various theme settings - med default-farver fra en vedlagt fil
 * Giver en farve til emner, undersøg om det er tilknyttet search links (Loop taxonomy color)
 * Undersøg om det er menuen, eller hvad det er (Loop navigation)
+  * Det virker som noget admin-menu-noget
 * Hvordan hænger loop dashboard sammen med loop admin?
+  * Loop admin definerer nogle views, loop dashboard bruger disse views
 
 
 ### Mikkel
