@@ -82,6 +82,7 @@
 * Undersøg hvad det her gør, vi tænker det har at gøre med branding - logo, farver, etc (modul: Loop configure theme)
   * letting the administrator choose the various theme settings - med default-farver fra en vedlagt fil
 * Giver en farve til emner, undersøg om det er tilknyttet search links (Loop taxonomy color)
+  * search links depender loop taxonomy color
 * Undersøg om det er menuen, eller hvad det er (Loop navigation)
   * Det virker som noget admin-menu-noget
 * Hvordan hænger loop dashboard sammen med loop admin?
