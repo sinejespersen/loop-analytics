@@ -8,7 +8,7 @@
 ## Branding
 | D7        | D9           | 
 | ------------- |---------------|
-| Loop configure theme | **Undersøg** hvad det her gør, vi tænker det har at gøre med branding - logo, farver, etc |
+| Loop configure theme | Dette skal ikke med i D9. Dette skal være konfig-filer |
 | Loop frontpage | **Undersøg** hvad forsiden skal indeholde |
 
 ## Login
