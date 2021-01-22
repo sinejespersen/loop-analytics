@@ -64,7 +64,7 @@
 | Loop user related content profession | Forsiden kan defineres ud fra brugerprofilens profession |
 | Loop user subscriptions | Viser hvad en bruger abonnerer på min side |
 | Loop user page views | Viser brugerens spørgsmål/svar kontent på min side |
-| Loop user messages | Views der viser beskeder (eksempelvis brugerprofil) |
+| Loop user messages | Views der viser beskeder fra notificationsmodulet (på eksempelvis brugerprofilen) - i D9 skal dette laves uafhængigt af Loop notification |
 | Loop notification | Sender mails ud når der sker noget på noget indhold |
 | Loop admin | Revisioner + anmeld indhold skal være muligt |
 | Loop dashboard| Statistik, og **undersøg** hvordan det hænger sammen med loop admin |
