@@ -32,7 +32,7 @@
 | ------------- |---------------|
 | Loop content | En simpel side, ikke søgbar |
 | Loop documents | Content typen dokument |
-| Loop example content | **Undersøg** hvad dette modul dækker over |
+| Loop example content | Det er til test - vi skal lave et modul med fixtures |
 | Loop flag (spørgsmål svar) | "Like" et svar og sortere svar efter likes (kitos - der kan admin overrule) |
 | Loop disable post (spørgsmål svar) | Gør det muligt at lave en installation uden QA - skal fjernes |
 | Loop friend notification | At anbefale indhold til en anden bruger - **undersøg** om dette skal med videre |
@@ -40,17 +40,17 @@
 | Loop quick box | Hænger sammen med search links, burde kunne løses med paragraphs |
 | Loop post (spørgsmål/svar) | Opret spørgsmål eller besvar et spørgsmål |
 | Loop post wysiwyg | Formattering af spørgsmål |
-| Loop external data | **Undersøg** om det er en parser som ikke bliver brugt |
-| Loop external sources content | **Undersøg** om det er upload af dokument til en content type |
+| Loop external data | Skal ikke med videre |
+| Loop external sources content | Henvisninger af ressourcer som ligger et andet sted som skal kunne søges frem |
 | Loop frontend | Internet explorer specifikt, skal ikke med i D9 |
-| Loop field bases | Vi hidkalder Mikkel - **undersøg** er det et slags overblik over fields |
+| Loop field bases | Samling af felter som bliver genbrugt af flere moduler og indholdstyper, i d9 skal dette ikke være et modul, da det kan laves som config |
 
 ## Struktur
 | D7        | D9           |
 | ------------- |---------------|
-| Loop taxonomy | **Undersøg** om dette er en bundle med de nedenstående moduler i |
+| Loop taxonomy | Definitionen på de tre taxonomier - emner, tags, profession - dette skal _måske_ med i D9, men egentlig i D9 er det konfiguration |
 | Loop taxonomy color | giver en farve til emner, **undersøg** om det er tilknyttet search links |
-| Loop taxonomy terms | Definere hvilke termer vi gerne vil bruge: emner, tags, profession |
+| Loop taxonomy terms | Definere nogle nøgleord/emner/POSTKASSE - dette er specifikke taxonomier |
 | Loop taxonomy views | Definerer views til taxonomy terms |
 | Loop navigation | **Undersøg** om det er menuen, eller hvad det er |
 
@@ -64,8 +64,8 @@
 | Loop user related content profession | Forsiden kan defineres ud fra brugerprofilens profession |
 | Loop user subscriptions | Viser hvad en bruger abonnerer på min side |
 | Loop user page views | Viser brugerens spørgsmål/svar kontent på min side |
-| Loop user messages | **Undersøg** om beskeder og notifikation gør det samme (revisioner) |
-| Loop notification | **Undersøg** om beskeder og notifikation gør det samme (revisioner) |
+| Loop user messages | Views der viser beskeder (eksempelvis brugerprofil) |
+| Loop notification | Sender mails ud når der sker noget på noget indhold |
 | Loop admin | Revisioner + anmeld indhold skal være muligt |
 | Loop dashboard| Statistik, og **undersøg** hvordan det hænger sammen med loop admin |
 | Loop permissions | Definerer adgang for forskellige bruger, **undersøg** hvilke adgange de forskellige brugere har, hænger sammen med loop user |
