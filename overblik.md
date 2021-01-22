@@ -9,7 +9,7 @@
 | D7        | D9           | 
 | ------------- |---------------|
 | Loop configure theme | Dette skal ikke med i D9. Dette skal være konfig-filer |
-| Loop frontpage | **Undersøg** hvad forsiden skal indeholde |
+| Loop frontpage | Definerer forsiden, lige nu: spørgsmål pr profession/kompetencer, ulæste beskeder, søgefeltet og filtre, velkomstblok - måske laves i blocks |
 
 ## Login
 | D7        | D9           |
@@ -25,7 +25,7 @@
 | Loop search node      |    Drupal search   |
 | Loop search node settings    |    Drupal search   |
 | Loop search links  | Google om drupal search dækker dette, ellers skal det implementeres     |
-| Loop instruction | **Undersøg** om denne skal med i D9 |
+| Loop instruction | Skal ikke med i D9 |
 
 ## Content
 | D7        | D9           |
@@ -49,7 +49,7 @@
 | D7        | D9           |
 | ------------- |---------------|
 | Loop taxonomy | Definitionen på de tre taxonomier - emner, tags, profession - dette skal _måske_ med i D9, men egentlig i D9 er det konfiguration |
-| Loop taxonomy color | giver en farve til emner, **undersøg** om det er tilknyttet search links |
+| Loop taxonomy color | giver en farve til emner |
 | Loop taxonomy terms | Definere nogle nøgleord/emner/POSTKASSE - dette er specifikke taxonomier |
 | Loop taxonomy views | Definerer views til taxonomy terms |
 | Loop navigation | **Undersøg** om det er menuen, eller hvad det er |
